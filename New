@@ -1,0 +1,26 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN BRASIL HD" tvg-logo="https://i.imgur.com/PHMX3dW.png" group-title="NOTICIAS",CNN BRASIL HD
+https://embed.superfutebol.tv/embed/18fcd5d2-1018-4104-b208-870614b95c65
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER HD" tvg-logo="https://i.imgur.com/Q7imqyR.png" group-title="FILMES E SERIES",WARNER HD
+https://embed.tyflex.site/v.php?id=Warner
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX HD" tvg-logo="https://i.imgur.com/jfs7ILt.png" group-title="FILMES E SERIES",MEGAPIX HD
+https://embed.superfutebol.tv/embed/68a87de7-ebe0-46bb-9bc8-dfb46e2859e2
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE HD" tvg-logo="https://i.imgur.com/iSzHmqM.png" group-title="FILMES E SERIES",SPACE HD
+https://sinalpublico.com/player3/embed.php?embed=player3/ch.php?canal=space
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD" tvg-logo="https://i.imgur.com/AGilkU2.png" group-title="REDE HBO",HBO HD
+https://embed.superfutebol.tv/embed/?a252K0JQNWt2WUlFWCswZ2VmSFJ6dz09Ojr31elFfT1m%2FiQMZJS%2Fjdce
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY HD" tvg-logo="https://i.imgur.com/IUybpJM.png" group-title="REDE HBO",HBO FAMILY HD
+https://embed.superfutebol.tv/embed/73fa331f-88b5-4de0-8c63-d9155c084216
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS HD" tvg-logo="https://i.imgur.com/IUybpJM.png" group-title="REDE HBO",HBO PLUS HD
+https://embed.superfutebol.tv/embed/ad7302fc-89a8-4383-9a80-4fbc39c163f1
+#EXTINF:-1 tvg-id="Hbopop.br" tvg-name="HBO POP HD" tvg-logo="https://i.imgur.com/UXFVEqO.png" group-title="REDE HBO",HBO POP HD
+https://sinalpublico.com/player3/ch.php?canal=hbopop
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE HD" tvg-logo="https://i.imgur.com/h5gGTpO.png" group-title="REDE HBO",HBO SIGNATURE HD
+https://minhateca.ru/iptv.php?channel=327
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON HD" tvg-logo="https://i.imgur.com/LvMTMuC.png" group-title="INFANTIS",NICKELODEON HD
+https://embed.superfutebol.tv/embed/0c5ea797-c2ca-433b-b912-279707559948
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG HD" tvg-logo="https://i.imgur.com/zHBqfYt.png" group-title="INFANTIS",BOOMERANG HD
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK HD" tvg-logo="https://i.imgur.com/jHgXIvL.png" group-title="INFANTIS",CARTOON NETWORK HD
+https://embed.superfutebol.tv/embed/70abd192-fb0a-48aa-9499-65b076817eae
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS HD" tvg-logo="https://i.imgur.com/lprvPEO.png" group-title="INFANTIS",DISCOVERY KIDS HD
+https://embed.superfutebol.tv/embed/4914d3d3-b371-4f9a-8f5f-22a9123c3499
